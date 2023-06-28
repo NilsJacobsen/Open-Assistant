@@ -5,5 +5,6 @@
   "delete_account_leaderboard": "Gelöschte Konto erscheinen nicht mehr in der Bestenliste.",
   "delete_account_permanent": "Diese Aktion ist entgültig und kann nicht rückgängig gemacht werden.",
   "go_to_dashboard": "Zurück zum Dashboard",
-  "yes_delete": "Ja, ich möchte mein Konte entgültig löschen."
+  "yes_delete": "Ja, ich möchte mein Konte entgültig löschen.",
+  "linked_accounts": "Verbundene Konten"
 }
