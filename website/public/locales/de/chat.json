@@ -56,5 +56,6 @@
   "feedback_message": "Wie war ich? Dein Feedback macht mich besser!",
   "feedback_action_great": "Gut",
   "feedback_action_poor": "Könnte besser sein",
-  "draft": "Entwurf"
+  "draft": "Entwurf",
+  "drafts_generating_notify": "Test"
 }
