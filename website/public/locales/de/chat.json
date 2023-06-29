@@ -18,7 +18,8 @@
     "button": "Keine Trainingsdaten zulassen",
     "success_message": "Sie haben sich gegen die Verwendung von Trainingsdaten entschieden.",
     "dialog": {
-      "title": "Trainingsdaten nicht mehr senden."
+      "title": "Trainingsdaten nicht mehr senden.",
+      "description": "Test"
     }
   },
   "parameter_description": {
@@ -56,5 +57,6 @@
   "feedback_message": "Wie war ich? Dein Feedback macht mich besser!",
   "feedback_action_great": "Gut",
   "feedback_action_poor": "Könnte besser sein",
-  "draft": "Entwurf"
+  "draft": "Entwurf",
+  "drafts_generating_notify": "Test"
 }
